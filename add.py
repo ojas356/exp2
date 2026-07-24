@@ -1,4 +1,4 @@
 a = 10
 b = 20
-
-print("Sum =", a + b)
+c = 23
+print("Sum :", a + b)
